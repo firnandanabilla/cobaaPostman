@@ -4,6 +4,6 @@ import lombok.Data;
 
 @Data
 public class CobaaDto{
-    private Integer id;
+    private String alamat;
     private String namaDosen;
 }
