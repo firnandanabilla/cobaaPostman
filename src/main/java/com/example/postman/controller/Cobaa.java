@@ -1,8 +1,7 @@
 package com.example.postman.controller;
 
-import com.example.postman.dto.CobaaDto;
+import com.example.postman.model.dto.CobaaDto;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
